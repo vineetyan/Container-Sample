@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Container-App", "Container-App\Container-App.csproj", "{FE2C2680-DE78-4AD3-8597-B7BBFCA32D32}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Containerized-Service", "Containerized-Service\Containerized-Service.csproj", "{81BE422B-F9A9-469E-91EA-BBD599D6CE7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE2C2680-DE78-4AD3-8597-B7BBFCA32D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2C2680-DE78-4AD3-8597-B7BBFCA32D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2C2680-DE78-4AD3-8597-B7BBFCA32D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2C2680-DE78-4AD3-8597-B7BBFCA32D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81BE422B-F9A9-469E-91EA-BBD599D6CE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81BE422B-F9A9-469E-91EA-BBD599D6CE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81BE422B-F9A9-469E-91EA-BBD599D6CE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81BE422B-F9A9-469E-91EA-BBD599D6CE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D488D94D-CBC5-4D7A-A814-9C367102D4FD}
+	EndGlobalSection
+EndGlobal
